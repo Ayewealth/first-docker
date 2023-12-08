@@ -1,0 +1,5 @@
+This is my first Docker simple app the display hello world
+
+just run docker run -d -p 3000:3000 first-docker:1.0
+
+and then go to http://localhost:3000 and it should work
